@@ -67,9 +67,9 @@ A full-stack education platform with distinct student, instructor, and admin rol
 
 `Python` `Flask` `SQLite`
 
-🔗 Live Demo: [Project URL]
+🔗 Live Demo: [http://localhost:5000/]
 
-📁 Repository: [GitHub Repository]
+📁 Repository: [https://github.com/MANIMEGALAI-207/Educonnect-hub]
 
 ---
 
@@ -80,9 +80,7 @@ A full-stack web application connecting blood donors and recipients, with donor 
 
 `Python` `Flask` `SQLite3`
 
-🔗 Live Demo: [Project URL]
 
-📁 Repository: [GitHub Repository]
 
 ---
 
@@ -93,9 +91,7 @@ An intelligent chatbot in Python that automates responses to user queries using 
 
 `Python` `NLP`
 
-🔗 Live Demo: [Project URL]
 
-📁 Repository: [GitHub Repository]
 
 ---
 
