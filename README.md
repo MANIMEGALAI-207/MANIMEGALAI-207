@@ -13,7 +13,7 @@
 ## 🚀 About Me
 
 - 💻 I'm an **Information Technology graduate** passionate about Python development, web application development, and problem-solving.
-- 🛠️ I enjoy building practical, user-focused applications using **Flask, HTML, CSS, and SQLite** that create real-world impact.
+- 🛠️ I enjoy building practical, user-focused applications using **Flask, HTML, CSS,Javascript,React.js and SQLite** that create real-world impact.
 - 🎓 Completed a **Py-Cloud Architect (PCA)** internship, gaining hands-on exposure to Python-based cloud architecture concepts.
 - 🤝 Open to collaborating on Software Development and Web Development projects.
 - 📚 Always exploring modern technologies and best development practices.
